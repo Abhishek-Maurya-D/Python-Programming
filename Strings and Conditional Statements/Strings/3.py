@@ -1,0 +1,6 @@
+# concatenation
+
+str1 = "Abhishek"
+str2 = "Maurya"
+final_str = str1 +" "+ str2
+print(final_str)
