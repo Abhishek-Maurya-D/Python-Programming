@@ -1,0 +1,8 @@
+when one class (child/derived()) derives the properites & methods of another class (parent/base).
+
+
+Types of Inheritance
+
+1. Single Inheritance
+2. Multi-Level Inheritance
+3. Multiple Inheritance
