@@ -1,0 +1,3 @@
+"r+"  read+   overwrite (pointer start)  - no trancate
+"w+"  write+  overwrite (all data clear) - trancate
+"a+"  append+ append    (pointer end)    - no trancate

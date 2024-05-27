@@ -1,0 +1,13 @@
+# Deleting a file
+# using the os module
+# Module(like a code library) is a file written by another
+# programmer that generally has a functions we can use.
+
+
+# import os # os stands for operating system
+# os.remove(filename)
+
+
+
+import os
+os.remove("C:/Users/Abhishek/OneDrive/Desktop/Python/File Input & Output/Read/1.txt")
