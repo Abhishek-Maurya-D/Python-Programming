@@ -4,6 +4,7 @@
 student = ["Abhishek", 85, "Noida"]
 print(student)
 
-# str = "Hello"
-# print(str[0])
-# str[0] = "Ankur"
+str = "Hello"
+print(str[0])
+str[0] = "A"
+print(str)
