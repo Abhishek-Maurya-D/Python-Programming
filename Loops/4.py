@@ -3,7 +3,7 @@
 # For traversing list, string, tuples, etc.
 
 # for loop syntax
-# for el in list:
+# for <element_variable_name> in list:
 
 list = [1,2,3]
 for el in list:
