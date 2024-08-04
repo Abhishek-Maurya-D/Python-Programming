@@ -7,7 +7,7 @@ class Student:
     def __init__(self):
         print(self)
         print("Abhishek Maurya")
-s1 = student()
+s1 = Student()
 print(s1)
 
 
