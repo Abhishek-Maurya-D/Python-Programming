@@ -11,4 +11,4 @@ c1 = C()
 
 print(c1.varA)
 print(c1.varB)
-print(c1.var)
+print(c1.varC)
